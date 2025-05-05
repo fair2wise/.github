@@ -1,6 +1,28 @@
-# FAIR to WISE
+# From FAIR to WISE: Weaving Intelligent Scientific Ecosystems at Berkeley Lab
 
-Weaving Intelligent Scientific Ecosystems at Berkeley Lab
+<p>
+  <img src="https://github.com/user-attachments/assets/0e98dc6f-0325-4524-87b2-a884fd93202d"
+       alt="Advanced Light Source Logo"
+       height="100px"/>
+  <img src="https://github.com/user-attachments/assets/854f4b90-52e7-4268-ad82-d681d69b8887"
+       alt="Joint Genome Institute Logo"
+       height="100px"/>
+  <img src="https://github.com/user-attachments/assets/4f44ef1d-464c-4dd1-81c7-16ef95c0e8a3"
+       alt="Environmental Genomics & Systems Biology Logo"
+       height="100px"/>
+  <img src="https://github.com/user-attachments/assets/4ad4d0ce-8921-4cb0-bc8b-d6056d0f4903"
+       alt="Computing Sciences Logo"
+       height="80px"/>
+  <img src="https://github.com/user-attachments/assets/f9845fd2-4127-4786-a450-d3925621617b"
+       alt="Molecular Biophysics & Integrated Bioimaging Logo"
+       height="100px"/>
+  <img src="https://github.com/user-attachments/assets/cdf8eb60-f731-4558-8887-4c6fba8d67ce"
+       alt="Berkeley Lab Logo"
+       height="80px"/>
+</p>
+
+
+
 
 ---
 
